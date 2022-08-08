@@ -1,1 +1,1 @@
-# Tiny-Project
+college management system
